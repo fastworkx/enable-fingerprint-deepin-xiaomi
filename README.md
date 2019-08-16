@@ -46,7 +46,7 @@ Para probar si se reconoce el fingerprint desde linea de comandos probar con est
 - `fprintd-verify` verifica
 
 ## Bkp de comandos utilizados
-fprintd-enroll 
+```
   133  fprintd-verify 
   134  sudo ninja install
   135  apt policy libpam-fprintd
@@ -110,5 +110,5 @@ fprintd-enroll
   193  fprintd-enroll 
   194  fprintd-verify 
   195  fprintd-enroll 
-  196  fprintd-verify 
-
+  196  fprintd-verify
+  ```
