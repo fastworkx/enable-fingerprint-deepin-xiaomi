@@ -1,5 +1,5 @@
 
-# Habilitar fingerprint en Deepin con xiaomi air 13 - 2019
+# Habilitar fingerprint en Deepin con xiaomi air 13" del 2019
 
 ## Verificar el kernel reconocio el dispositivo
 ```
